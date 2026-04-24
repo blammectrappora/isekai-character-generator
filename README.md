@@ -77,3 +77,12 @@ node isekaicharactergenerator.js "your prompt" --token "$NETA_TOKEN"
 
 Get a free trial token at <https://www.neta.art/open/>.
 
+## Example Output
+
+```bash
+node isekaicharactergenerator.js "anime style isekai protagonist character, transported to a fantasy other-world, magical sword and ornate armor, vibrant Niji-style colors, dramatic cinematic lighting, light novel cover art composition, detailed face and outfit, full body character design sheet"
+```
+
+![Example output](https://oss.talesofai.cn/picture/6510be27-5908-4dde-bbdb-64ce755a7123.webp)
+
+> Prompt: *"anime style isekai protagonist character, transported to a fantasy other-world, magical sword and ornate armor, vibrant Niji-style colors, dramatic cinematic lighting, light novel cover art composition, detailed face and outfit, full body character design sheet"*
